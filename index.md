@@ -1,10 +1,10 @@
 # SteamDeck How-To Resource Guide
 
 ## Introduction
-I've been tired of the poor content or video content on 'How To Do' things on the SteamDeck.
+I've been tired of the poor content or video content on 'How To Do' things on the [Steam Deck.](https://store.steampowered.com/steamdeck)
 
 This is my collection of resources.  Hopefully this will help someone.
-I will add content as I add content to my deck.
+I will add content as I add content to my deck.  
 
 ### Content Suggestions, Discussions, and Requests
 Please suggest content, request changes, or discuss things via the 'Discussions' tab.  
