@@ -57,6 +57,7 @@ The URL is https://www.disneyplus.com.
     The default '**Web Browser**' makes the controller work intuitively with the streaming services.  
     You can customize it to your liking or search for a community configuration of your choice.  
     There is a '**Disney+ for SteamDeck**' controller configuration that I am using.
+    
 12. Add Icon, Banner, and Heroes for Disney+ to make it look like an offical app.
 <img src="media/add_nonsteam_6.jpg" alt="drawing" width="75%"/>    
 
