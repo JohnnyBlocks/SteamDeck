@@ -49,7 +49,7 @@ The URL is https://www.disneyplus.com.
 11. Find '**Disney+**' in your game library and click on it to select it.
 
 12. Click on the controller icon 🎮 to the right to add a controller layout.  
-    The '**Disney+ Controller Settings**' window will open.
+    The '**Disney+ Controller Settings**' window will open.  
     <img src="media/add_nonsteam_7.jpg" alt="drawing" width="75%"/>  
 
 
