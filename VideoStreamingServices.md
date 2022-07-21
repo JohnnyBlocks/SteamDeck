@@ -57,9 +57,14 @@ The URL is https://www.disneyplus.com.
     The default '**Web Browser**' makes the controller work intuitively with the streaming services.  
     You can customize it to your liking or search for a community configuration of your choice.  
     There is a '**Disney+ for SteamDeck**' controller configuration that I am using.
-    
-12. Add Icon, Banner, and Heroes for Disney+ to make it look like an offical app.
+
+14. Add Icon, Banner, and Heroes for Disney+ to make it look like an offical app.
 <img src="media/add_nonsteam_6.jpg" alt="drawing" width="75%"/>    
 
     This can be done via [SteamGridDB](https://www.steamgriddb.com/) manually, via the [SGDBoop](https://www.steamgriddb.com/boop) app, or via [BoilR](https://github.com/PhilipK/BoilR)     
     This site will have guides linked here once I have time to write them up.
+
+15. Launch the newly added app, log in with your account, and start streaming.  
+    Chrome will cache your credentials and your login with persist.
+
+    Next time you launch the app, it will already be logged in, ready to start streaming.
