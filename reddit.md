@@ -1,0 +1,18 @@
+### Reddit Saves for Content
+- [RGB keyboard Theme](https://www.reddit.com/r/SteamDeck/comments/w1bz8r/i_made_an_rgb_virtual_keyboard_theme_with_the_css/)
+- [Remove Non-English to Save Space](https://www.reddit.com/r/SteamDeck/comments/w423sr/mele_non_english_localization_deletion_linux_sh/)
+- [Performance Scaling Filter Explained](https://www.reddit.com/r/integer_scaling/comments/t657co/steam_deck_portable_console_by_valve_supports/)
+- [40hz Gaming](https://www.reddit.com/r/SteamDeck/comments/w3bja1/question_on_40hz/)
+- [3rd Party Launchers new way](https://www.reddit.com/r/SteamDeck/comments/w35cg1/i_have_completely_figured_how_to_add_a_game_from/)
+- [3rd Party Launchers origin](https://www.reddit.com/r/SteamDeck/comments/tx6srv/guide_installing_origin_on_the_steam_deck_the/)
+- [Overwatch?](https://www.reddit.com/r/SteamDeck/comments/the2q2/does_anyone_know_how_to_set_up_overwatch_on_the/)
+- [Dead Zones](https://www.reddit.com/r/SteamDeck/comments/w2gos4/psa_optimize_your_deadzones/)
+- [emuDeck Demon Souls](https://www.reddit.com/r/SteamDeck/comments/vyjsl5/how_do_i_find_the_patches_folder_in_rpcs3s_files/)
+- [Hades - Fuller Screen](https://www.reddit.com/r/SteamDeck/comments/vwkicr/bypassing_letterboxing_black_bars_on_hades/ifqab41/?context=3)
+- [metroid Prime Trilogy](https://www.reddit.com/r/SteamDeck/comments/u8748j/metroid_prime_trilogy_primehack_a_steam_deck_guide/)
+- [Chrome dark mode](https://www.reddit.com/r/SteamDeck/comments/vrc3ae/enable_chrome_dark_mode_by_appending_launch/)
+- [Cyberpunk FSR 2.0 mod](https://www.reddit.com/r/SteamDeck/comments/vm95ra/cyberpunk_2077_fsr_20_mod_comparison_screenshots/)
+- [Steaming Services via Chrome]
+- [Sync Grid between PC and Deck](https://www.reddit.com/r/SteamDeck/comments/vhbp6v/how_can_i_manage_custom_game_artwork_syncing_from/)
+- [Space Engineers Fix](https://www.reddit.com/r/spaceengineers/comments/ua20er/space_engineers_works_on_steam_deck/)
+- [Return to Game Mode Link](https://www.reddit.com/r/SteamDeck/comments/w3swg2/help_accidentally_uninstalled_return_to_gaming/)
