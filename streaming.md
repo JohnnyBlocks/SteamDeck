@@ -1,7 +1,7 @@
 # Adding Streaming Services 
 This is the process to add popular streaming services to the SteamDeck as non-steam games.  The process works for any stream service that is accessible via chrome on windows PC.
 
-I currently use Netflix, Hulu, Amazon Prime, 
+I currently use Disney+, HBOMax, Hulu, Netflix, Paramount+, Prime Video, and YouTube 
 
 ## Step-by-Step
 
