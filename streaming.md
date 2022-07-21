@@ -8,3 +8,8 @@ I currently use Disney+, HBOMax, Hulu, Netflix, Paramount+, Prime Video, and You
 ### 1. Add Chrome as Non-Steam Game
 ### 2. Change Parameters
 ### 3. Add Icons, Banner
+
+
+/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=/app/bin/chrome --file-forwarding com.google.Chrome @@u %U @@
+
+run --branch=stable --arch=x86_64 --command=/app/bin/chrome --file-forwarding com.google.Chrome @@u @@ --window-size=1024,640 --force-device-scale-factor=1.25 --device-scale-factor=1.25 --kiosk https://www.disneyplus.com
