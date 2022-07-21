@@ -12,7 +12,7 @@ Please suggest content, request changes, or discuss things via the 'Discussions'
 - [All Discussions](https://github.com/JohnnyBlocks/SteamDeck/discussions)
 
 ## Non-Steam Games
-- [Steaming Video & Music (Hulu, Spotify, Netflix, Amazon, etc)](streaming.md)
+- [Steaming Video (Hulu, Spotify, Netflix, Amazon, etc)](streaming.md)
 - 3rd Part Launchers (Origin, Battle.net, Epic, etc)
 - Process B
 - BoilR
@@ -23,6 +23,7 @@ Please suggest content, request changes, or discuss things via the 'Discussions'
 - SteamGridDB
 - SGDBoop
 - Keyboard Theme
+- trackpad as mouse and click in chrome
 
 ## Desktop Mode
 - Screen Shots via Spectacle  
@@ -30,10 +31,9 @@ Please suggest content, request changes, or discuss things via the 'Discussions'
 ## Emulation
 - Coming Soon
 
-## GameMode 
 
 ## Steam Store via Web
-- great-on-deck-search 
+- great-on-deck-search
 
 ## Who is JohnnyBlocks_
 - [Instagram](https://instagram.com/JohnnyBlocks_)
