@@ -16,3 +16,4 @@
 - [Sync Grid between PC and Deck](https://www.reddit.com/r/SteamDeck/comments/vhbp6v/how_can_i_manage_custom_game_artwork_syncing_from/)
 - [Space Engineers Fix](https://www.reddit.com/r/spaceengineers/comments/ua20er/space_engineers_works_on_steam_deck/)
 - [Return to Game Mode Link](https://www.reddit.com/r/SteamDeck/comments/w3swg2/help_accidentally_uninstalled_return_to_gaming/)
+- [xbox cloud gaming](https://support.microsoft.com/en-gb/topic/xbox-cloud-gaming-in-microsoft-edge-with-steam-deck-43dd011b-0ce8-4810-8302-965be6d53296)
