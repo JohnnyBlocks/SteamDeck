@@ -12,6 +12,7 @@ Please suggest content, request changes, or discuss things via the 'Discussions'
 - [All Discussions](https://github.com/JohnnyBlocks/SteamDeck/discussions)
 
 ## [Non-Steam Games](launchers.md)
+- Steaming Video & Music (Hulu, Spotify, Netflix, Amazon, etc)
 - 3rd Part Launchers (Origin, Battle.net, Epic, etc)
 - Process B
 - BoilR
