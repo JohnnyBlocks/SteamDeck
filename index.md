@@ -7,7 +7,7 @@ This is my collection of resources.  Hopefully this will help someone.
 I will add content as I add content to my deck.  If the item is not a link it means it is a place holder for my draft ideas that have not yet been fully fleshed out or not yet written.
 
 ### Content Suggestions, Discussions, and Requests
-Please suggest content, request changes, or discuss things via the 'Discussions' tab.  
+Please suggest content, request changes, or discuss things via the '**Discussions**' tab.  
 - [New Discussion](https://github.com/JohnnyBlocks/SteamDeck/discussions/new)
 - [All Discussions](https://github.com/JohnnyBlocks/SteamDeck/discussions)
 
