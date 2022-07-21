@@ -11,8 +11,8 @@ Please suggest content, request changes, or discuss things via the 'Discussions'
 - [New Discussion](https://github.com/JohnnyBlocks/SteamDeck/discussions/new)
 - [All Discussions](https://github.com/JohnnyBlocks/SteamDeck/discussions)
 
-## Non-Steam Games
-- Process A
+## [Non-Steam Games](launchers.md)
+- 3rd Part Launchers (Origin, Battle.net, Epic, etc)
 - Process B
 - BoilR
 
