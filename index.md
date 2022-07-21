@@ -24,6 +24,9 @@ Please suggest content, request changes, or discuss things via the 'Discussions'
 - SGDBoop
 - Keyboard Theme
 
+## Desktop Mode
+- Screen Shots via Spectacle  
+
 ## Emulation
 - Coming Soon
 
