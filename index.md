@@ -16,15 +16,18 @@ Please suggest content, request changes, or discuss things via the 'Discussions'
 - Process B
 - BoilR
 
-## Game Grid
-- Manual Process
+## Game Mode
+- Grid Manual Process
 - SteamGridDB
 - SGDBoop
+- Keyboard Theme
 
 ## Emulation
 - Coming Soon
 
-## Steam Store
+## GameMode 
+
+## Steam Store via Web
 - great-on-deck-search 
 
 ## Who is JohnnyBlocks_
