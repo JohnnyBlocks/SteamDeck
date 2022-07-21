@@ -39,7 +39,7 @@ The URL is https://www.disneyplus.com.
     run --branch=stable --arch=x86_64 --command=/app/bin/chrome --file-forwarding com.google.Chrome @@u @@ --window-size=1024,640 --force-device-scale-factor=1.25 --device-scale-factor=1.25 --force-dark-mode --enable-features=WebUIDarkMode --kiosk https://www.disneyplus.com
     ```    
 10.  Click in the Dark Square next to '**Disney+**' and change it to a Disney+ image file of your choice then close the '**SHORTCUT**' window.  
-\  <img src="media/add_nonsteam_4.png" alt="drawing" width="75%"/>
+    <img src="media/add_nonsteam_4.png" alt="drawing" width="75%"/>
 15. Disney+ is now in your game library as a non-steam game.  
     Restart into '**Game Mode**'
 
