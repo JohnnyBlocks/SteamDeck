@@ -18,7 +18,7 @@ Please suggest content, request changes, or discuss things via the '**Discussion
 
 ## Game Mode Things
 - Grid Manual Process
-- SteamGridDB
+- SteamGridDB 
 - SGDBoop
 - BoilR
 - Keyboard Theme
