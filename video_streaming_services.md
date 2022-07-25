@@ -12,7 +12,7 @@ I currently use Disney+, HBOMax, Hulu, Netflix, Paramount+, Prime Video, and You
 Decide which streaming service you want to add.  Find the URL for the streaming section.  
 This is the URL you are on once successfully logged in and ready to make a video selection.  
 For this demonstration I will be adding Disney+.  
-The URL is https://www.disneyplus.com.
+The URL is [https://www.disneyplus.com](https://www.disneyplus.com).
 
 ### A. Add Chrome or Edge as Non-Steam Game  
 1.  Restart into '**Desktop**' Mode of the Deck.
@@ -25,7 +25,7 @@ The URL is https://www.disneyplus.com.
 4.  Select '**Google Chrome**'  from the list and click '**ADD SELECTED PROGRAMS**'  <br>
 Note:  You may alternately select '**Microsoft Edge**' at this step.
 
-5.  '**Google Chrome**' or '**Microsoft Edge**' should now show in your list of games.
+5.  '**Google Chrome**' or '**Microsoft Edge**' should now show in your list of games.  
     <img src="media/add_nonsteam_2.png" alt="drawing" width="75%"/>  
 
 ### B. Change Name and Parameters
@@ -71,7 +71,7 @@ Note:  You may alternately select '**Microsoft Edge**' at this step.
     You can customize it to your liking or search for a community configuration of your choice.  
     There is a '**Disney+ for SteamDeck**' controller configuration that I am using.
 
-15. Add Icon, Banner, and Heroes for Disney+ to make it look like an offical app.
+15. Add Icon, Banner, and Heroes for Disney+ to make it look like an offical app.  
 <img src="media/add_nonsteam_6.jpg" alt="drawing" width="75%"/>    
 
     This can be done via [SteamGridDB](https://www.steamgriddb.com/) manually, via the [SGDBoop](https://www.steamgriddb.com/boop) app, or via [BoilR](https://github.com/PhilipK/BoilR)     
