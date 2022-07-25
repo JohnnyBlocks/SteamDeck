@@ -43,12 +43,13 @@ Note:  You may alternately select '**Microsoft Edge**' at this step.
 ```
     run --branch=stable --arch=x86_64 --command=/app/bin/chrome --file-forwarding com.google.Chrome @@u @@ --window-size=1024,640 --force-device-scale-factor=1.25 --device-scale-factor=1.25 --kiosk https://www.disneyplus.com --edge-kiosk-type=fullscreen --no-first-run
 ```    
- 
+
 #### For Microsoft Edge
 9.   Replace the '**LAUNCH OPTIONS**' with this entire code segment, replacing the disneyplus URL with the streaming service of your choice.  
 ```
     run --branch=stable --arch=x86_64 --command=/app/bin/edge --file-forwarding com.microsoft.Edge @@u @@ --window-size=1024,640 --force-device-scale-factor=1.25 --device-scale-factor=1.25 --kiosk https://www.disneyplus.com --edge-kiosk-type=fullscreen --no-first-run
-```    
+```  
+
 10.  Click in the Dark Square next to '**Disney+**' and change it to a Disney+ image file of your choice then close the '**SHORTCUT**' window.  <br/>
     <img src="media/add_nonsteam_4.png" alt="drawing" width="75%"/>
 
