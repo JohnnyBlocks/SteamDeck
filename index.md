@@ -12,7 +12,8 @@ Please suggest content, request changes, or discuss things via the '**Discussion
 - [All Discussions](https://github.com/JohnnyBlocks/SteamDeck/discussions)
 
 ## Non-Steam Games
-- [Steaming Video (Hulu, Spotify, Netflix, Amazon, etc)](VideoStreamingServices.md)
+- [Add Microsoft Edge Browser](microsoft_edge.md)
+- [Steaming Video (Hulu, Spotify, Netflix, Amazon, etc)](video_streaming_services.md)
 - 3rd Part Launchers (Origin, Battle.net, Epic, etc)
 
 ## Game Mode Things
@@ -44,3 +45,6 @@ Please suggest content, request changes, or discuss things via the '**Discussion
 
 ## Who is JohnnyBlocks_
 - [Instagram](https://instagram.com/JohnnyBlocks_)
+
+##### Reddit Discussions
+- [Reddit Saves](reddit.md)
