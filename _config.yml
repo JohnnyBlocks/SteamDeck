@@ -4,5 +4,5 @@ plugins:
 
 title: [SteamDeck How-To Guide]
 description: [Collection of Resources and How To Do's to let you LEVEL-UP your Steam Deck]
-show_downloads: [FALSE]
+show_downloads: [false]
 google_analytics: [G-TF1K7SFX8T]
