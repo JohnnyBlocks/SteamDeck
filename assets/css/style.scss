@@ -3,6 +3,18 @@
 
 @import "{{ site.theme }}";
 
-downloads {
+.header {
+    width: 200px;
+}
+
+.footer {
+    width: 200px;
+}
+
+.section {
+    width: 800px;
+}
+
+.downloads {
     display: none;
 }
