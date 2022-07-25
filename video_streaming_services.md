@@ -4,7 +4,7 @@ This is the process to add popular streaming services to the SteamDeck as non-st
 This guide will use Chrome as the Browser in the examples, but will also show how to use Edge.   
 Follow [THIS GUIDE](microsoft_edge.md) to install Microsoft Edge on the Steam Deck.
 
-I currently use Disney+, HBOMax, Hulu, Netflix, Paramount+, Prime Video, and YouTube
+I currently use Disney+, HBOMax, Hulu, Netflix, Paramount+, Prime Video, and YouTube  
 <img src="media/add_nonsteam_header.jpg" alt="drawing" width="75%"/>  
 ## Step-by-Step
 
