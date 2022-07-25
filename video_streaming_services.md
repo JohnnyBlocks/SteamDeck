@@ -29,8 +29,8 @@ Note:  You may alternately select '**Microsoft Edge**' at this step.
     <img src="media/add_nonsteam_2.png" alt="drawing" width="60%"/>  
 
 ### B. Change Name and Parameters
-6.  Right click on the shortcut name '**Google Chrome**' (or '**Microsoft Edge**' depending on your choice) in your game list and select '**Properties...**'  
-    The properties for the shortcut will open.  
+6.  Right click on the shortcut name '**Google Chrome**' (or '**Microsoft Edge**' depending on your choice) in your game list  
+    Select '**Properties...**' and the properties for the shortcut will open.  
     <img src="media/add_nonsteam_3.png" alt="drawing" width="60%"/>
 
 7.  Click into the area that says '**Google Chrome**' (or '**Microsoft Edge**' depending on your choice) and change the name.  
