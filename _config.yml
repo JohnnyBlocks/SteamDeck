@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-them
 
 title: [SteamDeck How-To Guide]
-description: [Collection of Guides to Level Up the Deck]
-show_downloads: [true]
+description: [Collection of Resources and How To Do's to let you LEVEL-UP your Steam Deck]
+show_downloads: [false]
 google_analytics: [G-TF1K7SFX8T]
