@@ -1,6 +1,7 @@
 ---
 ---
+{
+@import '{{ site.theme }}';
 
-@import "{{ site.theme }}";
-
-img[alt=screenshot] { width: 75%; }
+img[alt=screenshot75] { width: 75%; }
+}
