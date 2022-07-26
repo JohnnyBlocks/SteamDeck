@@ -37,11 +37,11 @@ body:
     description: What hardware you viewing this on?
     multiple: false
     options:
-      - label: Steam Deck
-      - label: Phone
-      - label: Windows 
-      - label: Mac
-      - label: Linux      
+      - Steam Deck
+      - Phone
+      - Windows 
+      - Mac
+      - Linux      
   validations:
     required: true
 - type: dropdown
@@ -49,9 +49,9 @@ body:
     label: Browser
     description: What browser you viewing this on?
     options:
-      - label: Chrome
-      - label: Firefox
-      - label: Edge
-      - label: Other
+      - Chrome
+      - Firefox
+      - Edge
+      - Other
   validations:
     required: true
