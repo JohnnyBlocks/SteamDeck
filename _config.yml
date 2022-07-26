@@ -1,8 +1,6 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-them
-
-title: [Steam Deck<br/>How-To Guide]
-description: [Collection of Resources and How To Do's to let you LEVEL-UP your Steam Deck]
-show_downloads: [false]
-google_analytics: [G-TF1K7SFX8T]
+- jekyll-remote-theme
+title: Johnny's Steam Deck Guide
+description: Collection of Resources and How To Do's to let you LEVEL-UP your Steam Deck
+show_downloads: false
