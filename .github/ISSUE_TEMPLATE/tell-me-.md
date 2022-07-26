@@ -1,7 +1,7 @@
 ---
 name: Tell Me!
 about: 'Is there something wrong or something missing?'
-title: '<title>
+title: '<title>'
 labels: New Issue
 assignees: JohnnyBlocks
 
