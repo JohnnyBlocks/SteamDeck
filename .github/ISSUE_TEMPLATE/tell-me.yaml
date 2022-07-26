@@ -1,7 +1,6 @@
-name: Tell Me!
+name: Tell Me What's Up!
 description: Is there something wrong or something missing?
 title: New Issue
-description: Please enter a Short and Meaninful Title
 labels: New Issue
 body:
 - type: checkboxes
