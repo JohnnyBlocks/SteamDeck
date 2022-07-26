@@ -39,7 +39,7 @@ Note:  You may alternately select '**Microsoft Edge**' at this step.
    ![screenshot](media/add_nonsteam_3.png)
 
 2. Click into the area that says '**Google Chrome**' (or '**Microsoft Edge**' depending on your choice) and change the name.  
-    I am adding Disney Plus, so I changed the name to 'Disney+'
+    I am adding Disney Plus, so I changed the name to 'Disney+'.
 
 3. Ignore '**TARGET**' and '**START IN**' fields.
 
