@@ -1,6 +1,7 @@
 name: Tell Me!
 description: Is there something wrong or something missing?
-title: 
+title: <title>
+placeholder: Image is Wrong
 description: Please enter a Short and Meaninful Title
 labels: New Issue
 body:
