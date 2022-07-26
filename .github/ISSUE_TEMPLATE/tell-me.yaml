@@ -1,7 +1,6 @@
 name: Tell Me!
 description: Is there something wrong or something missing?
 title: <title>
-placeholder: Image is Wrong
 description: Please enter a Short and Meaninful Title
 labels: New Issue
 body:
@@ -33,16 +32,28 @@ body:
       Tip: You can attach images or files by clicking this area to highlight it and then dragging files in.
   validations:
     required: false
-- type: textarea
+type: dropdown
   attributes:
-    label: Environment
-    description: |
-      Examples:
-        - **Device**: Computer, Phone, Deck, etc
-        - **Browser**: Chrome, Edge, Firefox, etc
-    value: |
-        - Device:
-        - Browser:
-    render: markdown
+    label: Hardware/OS
+    description: What hardware you viewing this on?
+    multiple: false
+    options:
+      - label: Steam Deck
+      - label: Phone
+      - label: Windows 
+      - label: Mac
+      - label: Linux      
+  validations:
+    required: true
+type: dropdown
+  attributes:
+    label: Browser
+    description: What browser you viewing this on?
+    multiple: false
+    options:
+      - label: Chrome
+      - label: Firefox
+      - label: Edge
+      - label: Other
   validations:
     required: true
