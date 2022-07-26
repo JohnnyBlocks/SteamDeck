@@ -28,10 +28,14 @@ Note: Please search to see if an issue already exists for the bug you encountere
 Links? References? Anything that will give us more context about the issue or what you want added.
 -->
 
-### Environment:
+### Hardware/OS:
 <!--
 Example:
 - Device: Computer, Phone
+-->
+  
+### Browser:
+<!--
+Example:
 - Browser: Chrome
 -->
-
