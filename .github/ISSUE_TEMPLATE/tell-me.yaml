@@ -1,7 +1,7 @@
 name: Tell Me What's Up!
 description: Is there something wrong or something missing?
 title: New Issue
-labels: New Issue
+labels: [New Issue]
 body:
 - type: checkboxes
   attributes:

@@ -9,7 +9,12 @@ I will add content as I add content to my deck.  If the item is not a link it me
 
 ### Content Suggestions, Discussions, and Requests
 
-Please suggest content, request changes, or discuss things via the '**Discussions**' tab.  
+Please suggest content and request changes via '**Issues**'
+
+- [Tell Me What's Up!](https://github.com/JohnnyBlocks/SteamDeck/issues/new/choose)
+- [Issue Tracker](https://github.com/JohnnyBlocks/SteamDeck/issues)
+
+Please engage and discuss things via the '**Discussions**' tab.  
 
 - [New Discussion](https://github.com/JohnnyBlocks/SteamDeck/discussions/new)
 - [All Discussions](https://github.com/JohnnyBlocks/SteamDeck/discussions)
