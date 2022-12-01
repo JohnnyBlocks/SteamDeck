@@ -27,7 +27,7 @@ Please engage and discuss things via the '**Discussions**' tab.
 ## External Resources
 
 - [CryoUtilities GitHub Repo](https://github.com/CryoByte33/steam-deck-utilities)
-- [CryoUtilities YouTube Explaination](https://www.youtube.com/watch?v=od9_a1QQQns)
+- [CryoUtilities YouTube Explanation](https://www.youtube.com/watch?v=od9_a1QQQns)
 
 [//]: # "Comment- [Must Read / Watch / Impliment](deck_tweeks.md)"
 
