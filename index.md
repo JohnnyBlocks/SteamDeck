@@ -27,6 +27,8 @@ Please engage and discuss things via the '**Discussions**' tab.
 
 ## Who is JohnnyBlocks?
 
-- <i class="fa-brands fa-steam"></i>[Steam](https://steamcommunity.com/id/JohnnyBlocks)
+- <i class="fa-brands fa-steam"></i>[Steam][def]
 - [Instagram](https://instagram.com/JohnnyBlocks_)
 - [Reddit](https://www.reddit.com/user/YoYo-Pete)
+
+[def]: https://steamcommunity.com/id/JohnnyBlock
