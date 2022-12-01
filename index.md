@@ -23,44 +23,10 @@ Please engage and discuss things via the '**Discussions**' tab.
 
 - [Add Microsoft Edge Browser](microsoft_edge.md)
 - [Steaming Video (Hulu, Spotify, Netflix, Amazon, etc)](video_streaming_services.md)
-- 3rd Part Launchers (Origin, Battle.net, Epic, etc)
+- [Must Read / Watch / Impliment](deck_tweeks.md)
 
-## Game Mode Things
+## Who is JohnnyBlocks?
 
-- Grid Manual Process
-- SteamGridDB
-- SGDBoop
-- BoilR
-- Keyboard Theme
-- trackpad as mouse and click in chrome
-- screen shots
-- Music from Phone / Spotify Options
-
-## Desktop Mode Things
-
-- Screen Shots via Spectacle  
-- Sync grid between PC and Steam Deck
-
-## Emulation
-
-- Switch
-- Arcade
-- Etc
-
-## Game Specific things
-
-- Hades Fuller screen
-- AntiCheat
-
-## Browser Extensions for Steam
-
-- great-on-deck-search
-- SteamDB
-
-## Who is JohnnyBlocks_
-
+- <i class="fa-brands fa-steam"></i>[Steam](https://steamcommunity.com/id/JohnnyBlocks)
 - [Instagram](https://instagram.com/JohnnyBlocks_)
-
-### Reddit Discussions
-
-- [Reddit Saves](reddit.md)
+- [Reddit](https://www.reddit.com/user/YoYo-Pete)
