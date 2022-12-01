@@ -19,16 +19,20 @@ Please engage and discuss things via the '**Discussions**' tab.
 - [New Discussion](https://github.com/JohnnyBlocks/SteamDeck/discussions/new)
 - [All Discussions](https://github.com/JohnnyBlocks/SteamDeck/discussions)
 
-## Non-Steam Games
+## Deck Things To Do
 
 - [Add Microsoft Edge Browser](microsoft_edge.md)
 - [Steaming Video (Hulu, Spotify, Netflix, Amazon, etc)](video_streaming_services.md)
-- [Must Read / Watch / Impliment](deck_tweeks.md)
+
+## External Resources
+
+- [CryoUtilities GitHub Repo](https://github.com/CryoByte33/steam-deck-utilities)
+- [CryoUtilities YouTube Explaination](https://www.youtube.com/watch?v=od9_a1QQQns)
+
+[//]: # "Comment- [Must Read / Watch / Impliment](deck_tweeks.md)"
 
 ## Who is JohnnyBlocks?
 
-- <i class="fa-brands fa-steam"></i>[Steam][def]
+- [Steam](https://steamcommunity.com/id/JohnnyBlocks)
 - [Instagram](https://instagram.com/JohnnyBlocks_)
 - [Reddit](https://www.reddit.com/user/YoYo-Pete)
-
-[def]: https://steamcommunity.com/id/JohnnyBlock
