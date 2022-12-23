@@ -1,6 +1,4 @@
-remote_theme: pages-themes/minima
-plugins:
-- jekyll-remote-theme
+theme: minima
 title: JohnnyBlocks's Steam Deck Guide
 description: JB's Collection of Resources and How To Do's to let you LEVEL-UP your Steam Deck
 show_downloads: false
