@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I've been tired of the poor content or video content on '**How To Do**' things on the [Steam Deck.](https://store.steampowered.com/steamdeck)
+I've been tired of the poor content or video content on '**How To**' do things on the [Steam Deck.](https://store.steampowered.com/steamdeck)
 
 This is my collection of resources.  Hopefully this will help someone.
 I will add content as I add content to my deck.  If the item is not a link it means it is a place holder for my draft ideas that have not yet been fully fleshed out or not yet written.
@@ -19,7 +19,7 @@ Please engage and discuss things via the '**Discussions**' tab.
 - [New Discussion](https://github.com/JohnnyBlocks/SteamDeck/discussions/new)
 - [All Discussions](https://github.com/JohnnyBlocks/SteamDeck/discussions)
 
-## Deck Things To Do
+## Deck '**How To Do**' Guides
 
 - [Add Microsoft Edge Browser](microsoft_edge.md)
 - [Steaming Video (Hulu, Spotify, Netflix, Amazon, etc)](video_streaming_services.md)
