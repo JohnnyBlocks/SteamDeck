@@ -1,6 +1,6 @@
 # Desktop Folder and Widgets
 
-This will be a two part write up on themeing your Steam Deck desktop experience.  This first part will cover the Desktop Folder and how to add widgets.
+This is part of a series on themeing your Steam Deck desktop experience.  This part will cover the Desktop Folder and how to add widgets.
 
 ## Matrix Inspired
 

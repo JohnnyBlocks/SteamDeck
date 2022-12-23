@@ -23,19 +23,25 @@ Please engage and discuss things via the '**Discussions**' tab.
 
 - [Add Microsoft Edge Browser](microsoft_edge.md)
 - [Steaming Video (Hulu, Spotify, Netflix, Amazon, etc)](video_streaming_services.md)
+
+## Deck '**Theming Your Desktop**' Guides
+
 - [Desktop Folder and Widgets](clean_desktop.md)
+- [Return to Gaming Mode](return_to_gaming_mode.md)
 
-## External Resources
+## JB's Deck Stack
 
-- [CryoUtilities GitHub Repo](https://github.com/CryoByte33/steam-deck-utilities)
-- [CryoUtilities YouTube Explanation](https://www.youtube.com/watch?v=od9_a1QQQns)
-- [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader)
-- [SteamGridDB](https://www.steamgriddb.com/)
+- [CryoByte33 Utilities](https://github.com/CryoByte33/steam-deck-utilities)
+- [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) (with the following plugins)
+  - [SteamGridDB](https://www.steamgriddb.com/)
 
 [//]: # "Comment- [Must Read / Watch / Impliment](deck_tweeks.md)"
 
 ## Who is JohnnyBlocks?
 
+- [GitHub](https://github.com/JohnnyBlocks)
 - [Steam](https://steamcommunity.com/id/JohnnyBlocks)
 - [Instagram](https://instagram.com/JohnnyBlocks_)
-- [Reddit](https://www.reddit.com/user/YoYo-Pete)
+- [YouTube](https://www.youtube.com/@JohnnyBlocks)
+
+This site and content was created on my SteamDeck and github.dev -   Praises be to the [GabeN](https://steamcommunity.com/id/gabelogannewell)!!
