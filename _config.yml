@@ -8,6 +8,7 @@ show_excerpts: false
 
 minima:
    date_format: "%Y-%m-%d %H:%M"
+   skin:   dark
    
    social_links:
     - { platform: steam,    
@@ -30,7 +31,7 @@ header_pages:
  - about.md
 
 theme: minima
-skin:   dark
+
 
 plugins:
  - jekyll-feed
