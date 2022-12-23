@@ -1,8 +1,6 @@
 ---
 layout: home
 ---
-## Introduction
-
 I've been tired of the poor content or video content on '**How To**' do things on the [Steam Deck.](https://store.steampowered.com/steamdeck)
 
 This is my collection of resources.  Hopefully this will help someone.
