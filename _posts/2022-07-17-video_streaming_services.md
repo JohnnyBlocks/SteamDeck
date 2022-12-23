@@ -1,4 +1,8 @@
-# How To Add Popular Video Streaming Services
+---
+layout: page
+title: How To Add Popular Video Streaming Services
+permalink: /guides/video_streaming_services
+---
 
 This is the process to add popular streaming services to the SteamDeck as non-steam games.  The process works for any stream service that is accessible via chrome on windows PC.  It will create a dedicated shortcut that can be run as a steam game, allowing you to stream content full screen.
 
