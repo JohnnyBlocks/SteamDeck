@@ -25,7 +25,7 @@ minima:
         user_url: "https://www.youtube.com/@JohnnyBlocks"}
 
 header_pages:
- - index.md
+ - about.md
 
 theme: minima
 
