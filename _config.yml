@@ -5,8 +5,9 @@ description: JohnnyBlocks's Collection of Resources and How To Do's to let you L
 show_excerpts: false 
 
 minima:
-  date_format: "%Y-%m-%d %H:%M"
-  social_links:
+   date_format: "%Y-%m-%d %H:%M"
+   
+   social_links:
     - platform: steam,    
       title:    "Steam: JohnnyBlocks",
       user_url: "https://steamcommunity.com/id/JohnnyBlocks"
