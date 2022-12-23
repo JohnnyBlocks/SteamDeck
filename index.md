@@ -1,6 +1,7 @@
 ---
 layout: home
-title: "JB's Collection of Resources and How To's to let you LEVEL-UP your Steam Deck.
+
+title: "JB's Collection of Resources and How To's to let you LEVEL-UP your Steam Deck."
 ---
 
 ## Introduction
