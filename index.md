@@ -23,6 +23,7 @@ Please engage and discuss things via the '**Discussions**' tab.
 
 - [Add Microsoft Edge Browser](microsoft_edge.md)
 - [Steaming Video (Hulu, Spotify, Netflix, Amazon, etc)](video_streaming_services.md)
+- [Desktop Folder and Widgets](clean_desktop.md)
 
 ## External Resources
 
