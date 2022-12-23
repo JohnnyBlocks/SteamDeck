@@ -18,7 +18,7 @@ minima:
       title:    "Instagram: @JohnnyBlocks",
       user_url: "https://www.instagram.com/JohnnyBlocks"
     - platform: telegram,
-      title:    "Telegram: @JohnnyBlocks"
+      title:    "Telegram: @JohnnyBlocks",
       user_url: "https://t.me/JohnnyBlocks"
     - platform: youtube,
       title:    "YouTube: @JohnnyBlocks",
