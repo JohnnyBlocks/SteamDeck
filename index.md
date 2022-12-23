@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "JB's Resources and How To's to let you LEVEL-UP your Steam Deck.
+title: "JB's Collection of Resources and How To's to let you LEVEL-UP your Steam Deck.
 ---
 
 ## Introduction
@@ -39,6 +39,3 @@ Please engage and discuss things via the '**Discussions**' tab.
   - [SteamGridDB](https://www.steamgriddb.com/)
 
 [//]: # "Comment- [Must Read / Watch / Impliment](deck_tweeks.md)"
-
-
-This site and content was created on my SteamDeck and github.dev -   Praises be to the [GabeN](https://steamcommunity.com/id/gabelogannewell)!!
