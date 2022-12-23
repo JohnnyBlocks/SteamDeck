@@ -1,6 +1,6 @@
 ---
 layout: forward
-target: /guides/video_streaming_services
+target: SteamDeck/guides/video_streaming_services
 targetname: How To Add Popular Video Streaming Services
 targettitle: ..redirecting..
 time: 0
