@@ -35,8 +35,8 @@ I like the [Binary Clock](https://en.wikipedia.org/wiki/Binary_clock).  While I 
 ![screenshot](media/widget_binary_clock.png)  
 5. Right click on the desktop and select 'Enter Edit Mode'
 7. Resize the Binary Clock and move it to the desired location.
-![screenshot](media/widget_binary_clock_resize.png)
 8. Right Click on the widget and select 'Configure Binary Clock'
+![screenshot](media/widget_binary_clock_resize.png)
 9. Modify the Configuration to your preference and save the changes
 10. Click on the red circle x below to close 'Edit Mode'
 11. Enjoy your new Binary Clock Widget.
