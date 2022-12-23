@@ -3,8 +3,6 @@ layout: forward
 target: /SteamDeck/guides/video_streaming_services
 targetname: How To Add Popular Video Streaming Services
 targettitle: ..redirecting..
-time: 10
+time: 0
 message: This page has been moved.
 ---
-
-# See You Space Cowboy
