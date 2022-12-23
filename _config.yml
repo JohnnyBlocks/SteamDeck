@@ -27,7 +27,7 @@ minima:
     #- { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/JohnnyBlocks" }
     - { platform: telegram,       user_url: "https://t.me/JohnnyBlocks" }
     #- { platform: twitter,        user_url: "https://twitter.com/JohnnyBlocks" }
-    - { platform: youtube,        user_url: "https://www.youtube.com/@JohnnyBlocks" }
+    - { platform: youtube,        user_url: "https://www.youtube.com/@JohnnyBlocks", title: "YouTube" }
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
