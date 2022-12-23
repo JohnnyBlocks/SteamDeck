@@ -1,4 +1,4 @@
-# Johnny's Steam Deck Cookbook
+# JB's Steam Deck Cookbook
 
 ## Introduction
 
