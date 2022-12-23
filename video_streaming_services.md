@@ -6,3 +6,5 @@ targettitle: ..redirecting..
 time: 10
 message: This page has been moved.
 ---
+
+# See You Space Cowboy!
