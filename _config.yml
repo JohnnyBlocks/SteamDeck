@@ -1,12 +1,14 @@
 title: JohnnyBlocks's Steam Deck Cookbook
+
 author:
   name: JohnnyBlocks
+
 description: >
     JohnnyBlocks's Collection of Resources and How To's to let you LEVEL-UP your Steam Deck. 
 show_excerpts: false 
 
 minima:
-   date_format: "%Y-%m-%d %H:%M"
+   date_format: "%Y-%m-%d"
    skin:   dark
    
    social_links:
@@ -27,7 +29,7 @@ minima:
         user_url: "https://www.youtube.com/@JohnnyBlocks"}
 
 header_pages:
- - about.md
+ - my_deck_stack.md
 
 theme: minima
 

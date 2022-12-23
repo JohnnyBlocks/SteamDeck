@@ -33,10 +33,4 @@ Please engage and discuss things via the '**Discussions**' tab.
 - [Desktop Folder and Widgets](clean_desktop.md)
 - [Return to Gaming Mode](return_to_gaming_mode.md)
 
-## JB's Deck Stack
-
-- [CryoByte33 Utilities](https://github.com/CryoByte33/steam-deck-utilities)
-- [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) (with the following plugins)
-  - [SteamGridDB](https://www.steamgriddb.com/)
-
 [//]: # "Comment- [Must Read / Watch / Impliment](deck_tweeks.md)"
