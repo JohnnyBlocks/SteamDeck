@@ -8,21 +8,21 @@ minima:
    date_format: "%Y-%m-%d %H:%M"
    
    social_links:
-    - platform: steam,    
-      title:    "Steam: JohnnyBlocks",
-      user_url: "https://steamcommunity.com/id/JohnnyBlocks"
-    - platform: github,     
-      title:    "GitHub: JohnnyBlocks",
-      user_url: "https://github.com/JohnnyBlocks" 
-    - platform: instagram,
-      title:    "Instagram: @JohnnyBlocks",
-      user_url: "https://www.instagram.com/JohnnyBlocks"
-    - platform: telegram,
-      title:    "Telegram: @JohnnyBlocks",
-      user_url: "https://t.me/JohnnyBlocks"
-    - platform: youtube,
-      title:    "YouTube: @JohnnyBlocks",
-      user_url: "https://www.youtube.com/@JohnnyBlocks"
+    - { platform: steam,    
+        title:    "Steam: JohnnyBlocks",
+        user_url: "https://steamcommunity.com/id/JohnnyBlocks"}
+    - { platform: github,     
+        title:    "GitHub: JohnnyBlocks",
+        user_url: "https://github.com/JohnnyBlocks"} 
+    - { platform: instagram,
+        title:    "Instagram: @JohnnyBlocks",
+        user_url: "https://www.instagram.com/JohnnyBlocks"}
+    - { platform: telegram,
+        title:    "Telegram: @JohnnyBlocks",
+        user_url: "https://t.me/JohnnyBlocks"}
+    - { platform: youtube,
+        title:    "YouTube: @JohnnyBlocks",
+        user_url: "https://www.youtube.com/@JohnnyBlocks"}
 
 header_pages:
  - index.md
