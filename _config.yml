@@ -30,6 +30,7 @@ header_pages:
  - about.md
 
 theme: minima
+skin:   dark
 
 plugins:
  - jekyll-feed
