@@ -52,9 +52,11 @@ I also like [Fuzzy Clocks](https://en.wikipedia.org/wiki/Fuzzy_logic) so I added
 5. If you want two then click it again.
 ![screenshot](media/widget_fuzzy_clock.png)  
 6. Right Click on the first Fuzzy Clock widget and select'Configure Fuzzy Clock'
-7. Select your desired level of fuzzynessn and save. Mine on the left uses the left most 'Accurate' setting.
+7. Select your desired level of fuzzynessn and save. 
+Mine on the left uses the left most 'Accurate' setting.
 8. Right Click on the second Fuzzy Clock widget and select 'Configure Fuzzy Clock'
-9. Select your desired level of fuzzyness.  Mine on the right uses the center setting.
+9. Select your desired level of fuzzyness.  
+Mine on the right uses the center setting.
 10. Modify the Configuration to your preference and save the changes
 ![screenshot](media/widget_fuzzy_clock_config.png) 
 11. Enjoy your Fuzzy Clock
