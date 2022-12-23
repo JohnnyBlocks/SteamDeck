@@ -1,10 +1,10 @@
-title: JohnnyBlocks's Steam Deck Guide
+title: JohnnyBlocks's Steam Deck Cookbook
 author:
   name: JohnnyBlocks
   email: Johnny.Blocks@NorthCoastBikeLife.org
 description: > # this means to ignore newlines until "show_excerpts:"
   JohnnyBlocks's Collection of Resources and How To Do's to let you LEVEL-UP your Steam Deck.
-show_excerpts: true # set to true to show excerpts on the homepage
+show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -32,7 +32,7 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-# - about.md
+ - index.md
 
 # Build settings
 theme: minima
