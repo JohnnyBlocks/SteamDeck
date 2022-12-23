@@ -1,12 +1,16 @@
 ---
 layout: home
+title: "JB's Resources and How To's to let you LEVEL-UP your Steam Deck.
 ---
+
+## Introduction
+
 I've been tired of the poor content or video content on '**How To**' do things on the [Steam Deck.](https://store.steampowered.com/steamdeck)
 
 This is my collection of resources.  Hopefully this will help someone.
-I will add content as I add content to my deck.  If the item is not a link it means it is a place holder for my draft ideas that have not yet been fully fleshed out or not yet written.
+I will add content as I add content to my deck.  
 
-### Content Suggestions, Discussions, and Requests
+## Content Suggestions, Discussions, and Requests
 
 Please suggest content and request changes via '**Issues**'
 
@@ -36,11 +40,5 @@ Please engage and discuss things via the '**Discussions**' tab.
 
 [//]: # "Comment- [Must Read / Watch / Impliment](deck_tweeks.md)"
 
-## Who is JohnnyBlocks?
-
-- [GitHub](https://github.com/JohnnyBlocks)
-- [Steam](https://steamcommunity.com/id/JohnnyBlocks)
-- [Instagram](https://instagram.com/JohnnyBlocks_)
-- [YouTube](https://www.youtube.com/@JohnnyBlocks)
 
 This site and content was created on my SteamDeck and github.dev -   Praises be to the [GabeN](https://steamcommunity.com/id/gabelogannewell)!!
