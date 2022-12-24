@@ -14,4 +14,4 @@ This is a blog test
 
 
 <!-- inside body, where you want to create the card -->
-<div class="repo-card" data-repo="username/repository"></div>
+<div class="repo-card" data-repo="johnnyblocks/steamdeck"></div>
