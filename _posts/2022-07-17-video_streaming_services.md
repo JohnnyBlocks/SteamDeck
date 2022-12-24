@@ -8,6 +8,8 @@ permalink: /:categories/:title:output_ext
 
 This is the process to add popular streaming services to the SteamDeck as non-steam games.  The process works for any stream service that is accessible via chrome on windows PC.  It will create a dedicated shortcut that can be run as a steam game, allowing you to stream content full screen.
 
+<!--more-->
+
 This guide will use Chrome as the Browser in the examples, but will also show how to use Edge.  
 Follow [THIS GUIDE](microsoft_edge.md) to install Microsoft Edge on the Steam Deck.
 
