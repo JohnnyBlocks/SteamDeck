@@ -25,12 +25,11 @@ Please engage and discuss things via the '**Discussions**' tab.
 
 ## Deck '**How To Do**' Guides
 
-- [Add Microsoft Edge Browser](microsoft_edge.md)
-- [Steaming Video (Hulu, Spotify, Netflix, Amazon, etc)](video_streaming_services.md)
+- [Add Microsoft Edge Browser](/guides/microsoft_edge)
+- [Steaming Video (Hulu, Spotify, Netflix, Amazon, etc)](/guides/video_streaming_services)
 
 ## Deck '**Theming Your Desktop**' Guides
 
-- [Desktop Folder and Widgets](clean_desktop.md)
-- [Return to Gaming Mode](return_to_gaming_mode.md)
+- [Desktop Folder and Widgets](/guides/desktop_folder_widgets)
+- [Return to Gaming Mode](/guides/return_to_gaming_mode)
 
-[//]: # "Comment- [Must Read / Watch / Impliment](deck_tweeks.md)"
