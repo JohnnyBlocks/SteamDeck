@@ -5,7 +5,8 @@ author:
 
 description: >
     Welcome to JohnnyBlocks's Steam Deck Blog and Collection of Resources and How To's to let you LEVEL-UP your Steam Deck. 
-show_excerpts: false 
+
+show_excerpts: true 
 
 permalink: date
 
