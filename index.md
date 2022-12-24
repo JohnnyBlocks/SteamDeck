@@ -31,4 +31,5 @@ Please engage and discuss things via the '**Discussions**' tab.
 ## Deck '**Theming Your Desktop**' Guides
 
 - [Desktop Folder and Widgets](guides/desktop_folder_widgets)
-- [Return to Gaming Mode](guides/return_to_gaming_mode)
+<!-- - [Return to Gaming Mode](guides/return_to_gaming_mode)
+-->
