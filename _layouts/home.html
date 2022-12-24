@@ -27,9 +27,10 @@ layout: default
       <li>
         <span class="post-meta">
           {{ post.date | date: date_format }}
-          {% for category in post.categories %}
-            <div class= "categories-title"><a name="{{ category | first }}">{{ category | first   }}</a></div>   
-          {% endfor %}
+          {% if post.categories.size > 0 %}
+            Categor{% if post.tags.size > 1 %}ies{% else %}y{% endif %}:
+            {{ post.tags | sort | join: ", " }}
+          {% endif %}
           {% if post.tags.size > 0 %}
             Tag{% if post.tags.size > 1 %}s{% endif %}:
             {{ post.tags | sort | join: ", " }}
