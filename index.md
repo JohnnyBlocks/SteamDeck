@@ -37,3 +37,4 @@ Please engage and discuss things via the '**Discussions**' tab.
 -->
 
 <h1>{{ page.blog-title }}</h1>
+<hr />
