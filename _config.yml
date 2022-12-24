@@ -31,7 +31,7 @@ minima:
         user_url: "https://www.youtube.com/@JohnnyBlocks"}
 
 header_pages:
- - my_deck_stack.md
+ - about.md
 
 theme: minima
 
