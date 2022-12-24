@@ -30,8 +30,8 @@ layout: default
           {% for category in post.categories %}
             <div class= "categories-title"><a name="{{ category | first }}">{{ category | first   }}</a></div>   
           {% endfor %}
-          {% for category in post.categories %}
-            <div class= "categories-title"><a name="{{ category | first }}">{{ category | first   }}</a></div>   
+          {% for tag in post.tags %}
+            <div class= "tags-title"><a name="{{ tag | first }}">{{ tag | first   }}</a></div>   
           {% endfor %}
         </span>
         <h3>
