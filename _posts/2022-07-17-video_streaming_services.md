@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How To Add Popular Streaming Services
+title: How To Add Streaming Services
 permalink: /guides/video_streaming_services
 ---
 
