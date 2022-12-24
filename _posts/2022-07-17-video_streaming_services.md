@@ -1,6 +1,7 @@
 ---
 layout: page
 title: How To Add Streaming Services
+permalink: 
 category: Guides
 tags: HowTo Guide Streaming
 ---

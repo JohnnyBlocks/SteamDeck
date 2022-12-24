@@ -1,6 +1,7 @@
 ---
 layout: page
 title: How To Add 'Return to Gaming Mode' to Application Menu
+permalink: 
 category: Guides
 tags: HowTo Guide GamingMode
 ---
