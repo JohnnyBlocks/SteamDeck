@@ -3,7 +3,7 @@ layout: home
 
 title: "JB's Collection of Resources and How To's to let you LEVEL-UP your Steam Deck."
 
-blog-title: Steam Deck Gaming Blog
+blog-title: JB's Steam Deck Gaming Blog
 ---
 
 ## Introduction
@@ -35,6 +35,7 @@ Please engage and discuss things via the '**Discussions**' tab.
 - [Desktop Folder and Widgets](guides/desktop_folder_widgets)
 <!-- - [Return to Gaming Mode](guides/return_to_gaming_mode)
 -->
-
+<hr />
+<hr />
 <h1>{{ page.blog-title }}</h1>
 <hr />
