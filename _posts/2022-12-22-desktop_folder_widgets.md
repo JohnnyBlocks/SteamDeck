@@ -5,7 +5,6 @@ category: Guides
 tags: HowTo Guide Desktop Widgets
 permalink: /:categories/:title:output_ext
 ---
----
 
 This is part of a series on themeing your Steam Deck desktop experience.  This part will cover the Desktop Folder and how to add widgets.
 

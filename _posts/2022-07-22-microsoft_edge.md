@@ -5,7 +5,7 @@ category: Guides
 tags: HowTo Guide Browser
 permalink: /:categories/:title:output_ext
 ---
----
+
 This is the process to add the **Microsoft Edge** browser to your Steam Deck.  
 
 ## A. Add Microsoft Edge Browser via Discovery Store
