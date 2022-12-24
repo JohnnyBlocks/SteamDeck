@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How To Modify The Desktop Folder and Add Widgets
-permalink: 
+permalink: none
 category: Guides
 tags: HowTo Guide Desktop Widgets
 ---

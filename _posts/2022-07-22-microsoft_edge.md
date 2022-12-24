@@ -1,6 +1,7 @@
 ---
 layout: page
 title: How To Add The Microsoft Edge Browser
+permalink: none
 category: Guides
 tags: HowTo Guide Browser
 ---
