@@ -1,9 +1,9 @@
 ---
 layout: page
 title: How To Add Streaming Services
-permalink: none
 category: Guides
 tags: HowTo Guide Streaming
+permalink: /:categories/:title:output_ext
 ---
 
 This is the process to add popular streaming services to the SteamDeck as non-steam games.  The process works for any stream service that is accessible via chrome on windows PC.  It will create a dedicated shortcut that can be run as a steam game, allowing you to stream content full screen.
