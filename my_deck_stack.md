@@ -1,10 +1,9 @@
 ---
 layout: page
 title: JB's Steam Deck Stack
-permalink: /stack/
+category: Guides
+tags: HowTo Guide DeckStack
 ---
-
-## JB's Deck Stack
 
 - [CryoByte33 Utilities](https://github.com/CryoByte33/steam-deck-utilities)
 - [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) (with the following plugins)

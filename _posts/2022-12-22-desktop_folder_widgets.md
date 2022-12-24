@@ -1,7 +1,9 @@
 ---
 layout: page
 title: How To Modify The Desktop Folder and Add Widgets
-permalink: /guides/desktop_folder_widgets
+category: Guides
+tags: HowTo Guide Desktop Widgets
+---
 ---
 
 This is part of a series on themeing your Steam Deck desktop experience.  This part will cover the Desktop Folder and how to add widgets.
