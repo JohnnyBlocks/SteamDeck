@@ -4,7 +4,7 @@ title: Testing the Blog
 category: Blog
 tags: Testing
 ---
-
+![screenshot](../media/desktop_matrix.png)  
 This is a blog test
 
 <!--more-->
