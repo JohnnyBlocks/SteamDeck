@@ -1,64 +1,45 @@
-# Site
-name: "SteamDeckBlog"
-title: "JohnnyBlocks's Steam Deck Blog"
-description: "Welcome to JohnnyBlocks's Steam Deck Blog and Collection of Resources and How To's to let you LEVEL-UP your Steam Deck."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: ''
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-include: ["_pages"]
-permalink: /:title/
+title: JohnnyBlocks's Steam Deck Blog
 
-# Authors
-authors:
-  sal:
-    name: JohnnyBlocks
-    display_name: JohnnyBlocks
-    gravatar: 685f0a22faf04d41d1c6a23145be60a1
-    email: JB@JohnnyBlocks.com
-    web: https://JohnnyBlocks.com
-#    twitter: https://twitter.com/wowthemesnet
-    description: "I am JohnnyBlocks"
+author:
+  name: JohnnyBlocks
 
-# Plugins
+description: >
+    Welcome to JohnnyBlocks's Steam Deck Blog and Collection of Resources and How To's to let you LEVEL-UP your Steam Deck. 
+
+google_analytics: G-SZXXH3RFKC
+
+show_excerpts: true 
+excerpt_separator: <!--more-->
+
+permalink: date
+
+minima:
+   date_format: "%Y-%m-%d"
+   skin:   dark
+   
+   social_links:
+    - { platform: steam,    
+        title:    "Steam: JohnnyBlocks",
+        user_url: "https://steamcommunity.com/id/JohnnyBlocks"}
+    - { platform: github,     
+        title:    "GitHub: JohnnyBlocks",
+        user_url: "https://github.com/JohnnyBlocks"} 
+    - { platform: instagram,
+        title:    "Instagram: @JohnnyBlocks",
+        user_url: "https://www.instagram.com/JohnnyBlocks"}
+    - { platform: telegram,
+        title:    "Telegram: @JohnnyBlocks",
+        user_url: "https://t.me/JohnnyBlocks"}
+    - { platform: youtube,
+        title:    "YouTube: @JohnnyBlocks",
+        user_url: "https://www.youtube.com/@JohnnyBlocks"}
+
+header_pages:
+ - about.md
+
+theme: minima
+
+
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
-    
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
-    
-# Pagination 
-paginate: 6
-paginate_path: /page:num/
-    
-# Other
-markdown: kramdown
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
-
-# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-
-adsense-data-ad-client: "G-SZXXH3RFKC"
-#adsense-data-ad-slot: "1363087678"
-
-# Lazy Images ("enabled" or "disabled")
-lazyimages: "enabled"
-
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+ - jekyll-feed
+ - jekyll-seo-tag
